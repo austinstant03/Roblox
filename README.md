@@ -1,2 +1,2 @@
 # Roblox is Better than Minecraft
-<img src="obey.jpg">
+<img src="Obey.jpg">
